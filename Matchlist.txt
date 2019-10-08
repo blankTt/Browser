@@ -1,0 +1,18 @@
+#match list to classify EC
+children
+crossover
+EC
+evolutionary
+fitness
+gene
+generation
+genetic
+iteration
+GA
+MA
+MOEA
+mutate
+mutation
+NSGA
+reproduction
+selection
